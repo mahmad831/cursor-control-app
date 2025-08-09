@@ -1,0 +1,7 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  camera: ^0.10.5+9
+  http: ^1.1.0
+  shared_preferences: ^2.2.1
